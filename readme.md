@@ -1,4 +1,4 @@
-# Project XXX
+\
 
 [Abstract]
 
